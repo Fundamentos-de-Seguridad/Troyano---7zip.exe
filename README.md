@@ -6,9 +6,8 @@ Este proyecto crea un ejecutable (`ChromeSetup2.exe`) que simula instalar Google
 
 - Máquina virtual con Windows 10.
 - Python 3.x instalado.
-- Módulos: `requests` y `pyinstaller` (`pip install requests pyinstaller`).
+- Librerias: `requests` y `pyinstaller` (`pip install requests pyinstaller`).
 - Conexión a internet.
-- Libreria necesaria (copiar y pegar):   pip install pyinstaller
 
 ## Pasos
 

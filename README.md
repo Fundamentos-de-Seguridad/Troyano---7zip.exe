@@ -8,6 +8,7 @@ Este proyecto crea un ejecutable (`ChromeSetup2.exe`) que simula instalar Google
 - Python 3.x instalado.
 - Módulos: `requests` y `pyinstaller` (`pip install requests pyinstaller`).
 - Conexión a internet.
+- Libreria necesaria (copiar y pegar):   pip install pyinstaller
 
 ## Pasos
 
